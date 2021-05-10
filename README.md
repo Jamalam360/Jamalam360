@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on minecraft mods
 - 🌱 I’m currently learning Java, Fabric API
 - 📫 How to reach me: open an issue on the project in question, or reach me on discord at jamalam#7804
