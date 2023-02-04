@@ -2,7 +2,9 @@
 
 I am a Fabric/Quilt mod developer, amongst other things.
 
-Reach me on discord on [my server](https://discord.jamalam.tech)
+Reach me on discord on [my server](https://discord.jamalam.tech).
+
+[Website](https://jamalam.tech)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0CSQ38)
 
