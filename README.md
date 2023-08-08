@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Fabric/Quilt mod developer, amongst other things.
+I am a Minecraft mod developer, as well as dabbling in Rust and web dev.
 
 Reach me on discord on [my server](https://discord.jamalam.tech).
 
